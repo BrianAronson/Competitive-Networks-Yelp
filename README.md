@@ -1,7 +1,7 @@
 Yelp Competitive Networks
 =====
 <p align="center">
-  <img src="./Images/Figure.png" height="750">
+  <img src="./Images/Figure.png" height="500">
 </p>
 
 # About
